@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpck", "tpck\tpck.csproj", "{CA50F609-1536-40C7-8048-655523EC264A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpck.Tests", "tpck.Tests\tpck.Tests.csproj", "{4B8EA9AF-F404-47C2-9BF9-EEE587F78789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA50F609-1536-40C7-8048-655523EC264A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA50F609-1536-40C7-8048-655523EC264A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA50F609-1536-40C7-8048-655523EC264A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA50F609-1536-40C7-8048-655523EC264A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8EA9AF-F404-47C2-9BF9-EEE587F78789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8EA9AF-F404-47C2-9BF9-EEE587F78789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8EA9AF-F404-47C2-9BF9-EEE587F78789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8EA9AF-F404-47C2-9BF9-EEE587F78789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
